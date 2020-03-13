@@ -7,5 +7,4 @@
 Githubには[こちら](https://github.com/penrin/audioproc)からアクセス。
 
 ### デモまとめ
-* TSP信号からIRを算出したい。
-→ Demo_TSP2IR.ipynb
+* TSP信号からIRを算出したい。→ [Demo_TSP2IR.ipynb](https://github.com/kabewall/OmotoLab/blob/master/Demo_TSP2IR.ipynb)
